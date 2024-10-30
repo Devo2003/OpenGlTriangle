@@ -116,7 +116,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\407044\Downloads\GraphicsInClass-master\GraphicsInClass-master\BabyGraphicsApp\Include;C:\Users\407044\Downloads\glfw-3.4.bin.WIN64 %281%29\glfw-3.4.bin.WIN64\include;C:\Users\407044\Downloads\GraphicsInClass-master\GraphicsInClass-master\BabyGraphicsApp\glm\glm-1.0.1-light\glm;C:\Users\407044\Downloads\glfw-3.4.bin.WIN64 %281%29\glfw-3.4.bin.WIN64\lib-vc2022;C:\Users\407044\Downloads\GraphicsInClass-master\GraphicsInClass-master\BabyGraphicsApp\Include\glad;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\407044\Desktop\GraphicsInClass\BabyGraphicsApp\Include;C:\Users\407044\Desktop\OpenGlTriangle\GraphicsInClass\BabyGraphicsApp\Include\glad;C:\Users\407044\Desktop\OpenGlTriangle\GraphicsInClass\BabyGraphicsApp\glm\glm-1.0.1-light\glm;C:\Users\407044\Downloads\GraphicsInClass-master\GraphicsInClass-master\BabyGraphicsApp\Include;C:\Users\407044\Downloads\glfw-3.4.bin.WIN64 %281%29\glfw-3.4.bin.WIN64\include;C:\Users\407044\Downloads\glfw-3.4.bin.WIN64 %281%29\glfw-3.4.bin.WIN64\lib-vc2022;C:\Users\407044\Downloads\GraphicsInClass-master\GraphicsInClass-master\BabyGraphicsApp\Include\glad;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
